@@ -1,7 +1,7 @@
 # 🤖 FinanceAI Pro
 
 **FinanceAI Pro** is an enhanced AI/ML-powered personal finance manager built with Streamlit.  
-It uses advanced Machine Learning algorithms to analyze transactions, detect spending anomalies, predict future spending trends, generate personalized recommendations, and provide meaningful insights into your financial behavior — all wrapped in a clean, sophisticated user interface.
+It uses advanced Machine Learning algorithms to analyze transactions, detect spending anomalies, predict future spending trends, generate personalized recommendations, and provide meaningful insights into your financial behavior - all wrapped in a clean, sophisticated user interface.
 
 ---
 
